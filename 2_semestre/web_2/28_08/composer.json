@@ -1,0 +1,16 @@
+{
+    "name": "backend/28_08",
+    "description": "código de estudos da aula do dia 28/08, construção de API com php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Backend\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Ferreira"
+        }
+    ],
+    "require": {}
+}

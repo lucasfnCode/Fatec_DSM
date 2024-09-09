@@ -1,0 +1,15 @@
+{
+    "name": "api/aula",
+    "autoload": {
+        "psr-4": {
+            "Api\\Aula\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Ferreira Nogueira",
+            "email": "venceremos.camaradas.13@gmail.com"
+        }
+    ],
+    "require": {}
+}

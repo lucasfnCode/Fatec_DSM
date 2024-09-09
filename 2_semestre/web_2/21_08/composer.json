@@ -1,0 +1,16 @@
+{
+    "name": "rudeboy/21_08",
+    "description": "testando",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rudeboy\\2108\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas"
+        }
+    ],
+    "require": {}
+}
